@@ -905,7 +905,7 @@ void IConsoleRender::UpdateCharacterStats(CharacterData Data)
     MoveCursor(startX + 31, startY + 6);
     cout << "                 ";
     MoveCursor(startX + 31, startY + 6);
-    cout << Data.ExperiencePoints << "/" << ((Data.level + 1) * (80 + (Data.level + 1) * 2));
+    cout << Data.ExperiencePoints << "/" << ((Data.level + 1) * (100 + (Data.level + 1) * 2));
 }
 
 //Switch item comparison stats of the items if they only switched places in inventory and equipment
