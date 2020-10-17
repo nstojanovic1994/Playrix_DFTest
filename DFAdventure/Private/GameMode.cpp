@@ -736,13 +736,13 @@ void AGameMode::PerformAttack(APawn* Attacker, APawn* Target)
         if (Target->TakeDamage(AttackerDamage))
         {
             //If defender died add experience points to the attacked based on the level
-            Attacker->IncreaseEXP(DefenderStats.level * 70);
+            Attacker->IncreaseEXP(DefenderStats.level * 20);
         }
         //Apply damage to attacker
         if (Attacker->TakeDamage(DefenderDamage))
         {
             //If attacker died add experience points to the defender based on the level
-            Target->IncreaseEXP(AttackerStats.level * 70);
+            Target->IncreaseEXP(AttackerStats.level * 20);
         }
     }
 }

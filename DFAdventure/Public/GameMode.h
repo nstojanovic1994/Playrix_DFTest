@@ -3,7 +3,7 @@
 #include ".\View\ConsoleRender.h"
 #include ".\Characters\Base\AbstractCharacterFactory.h"
 #include ".\View\DataStruct.h"
-#include <json.h>
+#include "..\json\json\json.h"
 
 class IMainMenu;
 

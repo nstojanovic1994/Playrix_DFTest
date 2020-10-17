@@ -192,7 +192,7 @@ bool APawn::GetFortify()
 void APawn::IncreaseEXP(int Amount)
 {
 	GetPawnData().ExperiencePoints += Amount;
-	if (GetPawnData().ExperiencePoints > (GetPawnData().level + 1) * (80 + (GetPawnData().level + 1) * 2))
+	if (GetPawnData().ExperiencePoints > (GetPawnData().level + 1) * (100 + (GetPawnData().level + 1) * 2))
 	{
 		GetPawnData().SkillPoints += 5;
 		GetPawnData().level++;
