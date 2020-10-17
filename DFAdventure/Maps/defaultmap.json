@@ -1,0 +1,362 @@
+{
+  "map": {
+    "size": {
+      "x": 38,
+      "y": 90
+    },
+    "lines": [
+      {
+        "start": {
+          "x": 0,
+          "y": 0
+        },
+        "end": {
+          "x": 0,
+          "y": 87
+        },
+        "type": "border"
+      },
+      {
+        "start": {
+          "x": 38,
+          "y": 0
+        },
+        "end": {
+          "x": 38,
+          "y": 87
+        },
+        "type": "border"
+      },
+      {
+        "start": {
+          "x": 0,
+          "y": 0
+        },
+        "end": {
+          "x": 38,
+          "y": 0
+        },
+        "type": "border"
+      },
+      {
+        "start": {
+          "x": 7,
+          "y": 87
+        },
+        "end": {
+          "x": 38,
+          "y": 87
+        },
+        "type": "border"
+      },
+      {
+        "start": {
+          "x": 17,
+          "y": 22
+        },
+        "end": {
+          "x": 23,
+          "y": 22
+        },
+        "type": "mountain"
+      },
+      {
+        "start": {
+          "x": 18,
+          "y": 20
+        },
+        "end": {
+          "x": 18,
+          "y": 23
+        },
+        "type": "mountain"
+      },
+      {
+        "start": {
+          "x": 19,
+          "y": 19
+        },
+        "end": {
+          "x": 19,
+          "y": 24
+        },
+        "type": "mountain"
+      },
+      {
+        "start": {
+          "x": 20,
+          "y": 18
+        },
+        "end": {
+          "x": 20,
+          "y": 25
+        },
+        "type": "mountain"
+      },
+      {
+        "start": {
+          "x": 21,
+          "y": 17
+        },
+        "end": {
+          "x": 21,
+          "y": 24
+        },
+        "type": "mountain"
+      },
+      {
+        "start": {
+          "x": 22,
+          "y": 18
+        },
+        "end": {
+          "x": 22,
+          "y": 23
+        },
+        "type": "mountain"
+      },
+      {
+        "start": {
+          "x": 23,
+          "y": 19
+        },
+        "end": {
+          "x": 23,
+          "y": 22
+        },
+        "type": "mountain"
+      },
+      {
+        "start": {
+          "x": 27,
+          "y": 19
+        },
+        "end": {
+          "x": 27,
+          "y": 25
+        },
+        "type": "river"
+      }
+    ],
+    "diags": [
+      {
+        "start": {
+          "x": 1,
+          "y": 87
+        },
+        "end": {
+          "x": 4,
+          "y": 90
+        },
+        "type": "border"
+      },
+      {
+        "start": {
+          "x": 4,
+          "y": 90
+        },
+        "end": {
+          "x": 7,
+          "y": 87
+        },
+        "type": "border"
+      },
+      {
+        "start": {
+          "x": 27,
+          "y": 25
+        },
+        "end": {
+          "x": 32,
+          "y": 30
+        },
+        "type": "river"
+      }
+    ]
+  },
+  "characters": {
+    "player": {
+      "ID": 0,
+      "start": {
+        "x": 1,
+        "y": 1
+      },
+      "level": 5,
+      "Strength": 5,
+      "Stamina": 5,
+      "Dexterity": 3,
+      "SkillPoints": 10,
+      "HealthPercentage": 100,
+      "ExperiencePoints": 10
+    },
+    "enemies": [
+        {
+            "ID": 111,
+            "start": {
+                "x": 5,
+                "y": 5
+            },
+            "level": 3,
+            "Strength": 4,
+            "Stamina": 5,
+            "Dexterity": 4,
+            "HealthPercentage": 100,
+            "randomstats": false
+        },
+        {
+            "ID": 112,
+            "start": {
+                "x": 6,
+                "y": 5
+            },
+            "level": 1,
+            "Strength": 1,
+            "Stamina": 1,
+            "Dexterity": 1,
+            "HealthPercentage": 100,
+            "randomstats": false
+        },
+        {
+            "ID": 113,
+            "start": {
+                "x": 5,
+                "y": 6
+            },
+            "level": 2,
+            "Strength": 2,
+            "Stamina": 4,
+            "Dexterity": 2,
+            "HealthPercentage": 100,
+            "randomstats": false
+        }
+    ]
+  },
+  "items": [
+    {
+      "ID": 221,
+      "start": {
+        "x": 7,
+        "y": 7
+      },
+      "type": "weapon",
+      "adddamage": 1,
+      "addhealth": 1,
+      "addarmor": 1,
+      "reqstrength": 1,
+      "reqstamina": 1,
+      "reqdexterity": 1,
+      "reqlevel": 1,
+      "ownerID": 12,
+      "equipedPlayer": false,
+      "rarity": "common"
+    },
+    {
+      "ID": 222,
+      "start": {
+        "x": 8,
+        "y": 8
+      },
+      "type": "shield",
+      "adddamage": 1,
+      "addhealth": 1,
+      "addarmor": 1,
+      "reqstrength": 1,
+      "reqstamina": 1,
+      "reqdexterity": 1,
+      "reqlevel": 1,
+      "ownerID": 12,
+      "equipedPlayer": false,
+      "rarity": "common"
+    },
+    {
+      "ID": 223,
+      "start": {
+        "x": 9,
+        "y": 9
+      },
+      "type": "armor",
+      "adddamage": 1,
+      "addhealth": 1,
+      "addarmor": 1,
+      "reqstrength": 1,
+      "reqstamina": 1,
+      "reqdexterity": 1,
+      "reqlevel": 1,
+      "ownerID": 12,
+      "equipedPlayer": false,
+      "rarity": "common"
+    },
+    {
+      "ID": 224,
+      "start": {
+        "x": 10,
+        "y": 10
+      },
+      "type": "shield",
+      "adddamage": 1,
+      "addhealth": 1,
+      "addarmor": 1,
+      "reqstrength": 1,
+      "reqstamina": 1,
+      "reqdexterity": 1,
+      "reqlevel": 1,
+      "ownerID": 111,
+      "equipedPlayer": false,
+      "rarity": "common"
+    },
+    {
+      "ID": 225,
+      "start": {
+        "x": 11,
+        "y": 11
+      },
+      "type": "armor",
+      "adddamage": 1,
+      "addhealth": 1,
+      "addarmor": 1,
+      "reqstrength": 1,
+      "reqstamina": 1,
+      "reqdexterity": 1,
+      "reqlevel": 1,
+      "ownerID": 0,
+      "equipedPlayer": true,
+      "rarity": "common"
+    },
+    {
+      "ID": 225,
+      "start": {
+        "x": 11,
+        "y": 11
+      },
+      "type": "weapon",
+      "adddamage": 3,
+      "addhealth": 2,
+      "addarmor": 1,
+      "reqstrength": 1,
+      "reqstamina": 4,
+      "reqdexterity": 3,
+      "reqlevel": 2,
+      "ownerID": 0,
+      "equipedPlayer": true,
+      "rarity": "common"
+    },
+    {
+      "ID": 226,
+      "start": {
+        "x": 10,
+        "y": 10
+      },
+      "type": "weapon",
+      "adddamage": 1,
+      "addhealth": 1,
+      "addarmor": 1,
+      "reqstrength": 1,
+      "reqstamina": 1,
+      "reqdexterity": 1,
+      "reqlevel": 1,
+      "ownerID": 0,
+      "equipedPlayer": false,
+      "rarity": "common"
+    }
+  ]
+}

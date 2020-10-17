@@ -1,0 +1,1838 @@
+{
+  "map": {
+    "size": {
+      "x": 53,
+      "y": 96
+    },
+    "lines": [
+        {
+            "start": {
+                "x": 0,
+                "y": 0
+            },
+            "end": {
+                "x": 0,
+                "y": 82
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 1,
+                "y": 0
+            },
+            "end": {
+                "x": 8,
+                "y": 0
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 8,
+                "y": 1
+            },
+            "end": {
+                "x": 8,
+                "y": 12
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 9,
+                "y": 12
+            },
+            "end": {
+                "x": 19,
+                "y": 12
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 25,
+                "y": 6
+            },
+            "end": {
+                "x": 30,
+                "y": 6
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 32,
+                "y": 8
+            },
+            "end": {
+                "x": 32,
+                "y": 12
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 28,
+                "y": 15
+            },
+            "end": {
+                "x": 28,
+                "y": 21
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 29,
+                "y": 21
+            },
+            "end": {
+                "x": 39,
+                "y": 21
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 39,
+                "y": 22
+            },
+            "end": {
+                "x": 39,
+                "y": 29
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 44,
+                "y": 34
+            },
+            "end": {
+                "x": 44,
+                "y": 58
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 52,
+                "y": 66
+            },
+            "end": {
+                "x": 52,
+                "y": 86
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 13,
+                "y": 95
+            },
+            "end": {
+                "x": 43,
+                "y": 95
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 5,
+                "y": 55
+            },
+            "end": {
+                "x": 5,
+                "y": 61
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 6,
+                "y": 54
+            },
+            "end": {
+                "x": 6,
+                "y": 62
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 7,
+                "y": 53
+            },
+            "end": {
+                "x": 7,
+                "y": 63
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 8,
+                "y": 53
+            },
+            "end": {
+                "x": 8,
+                "y": 63
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 9,
+                "y": 52
+            },
+            "end": {
+                "x": 9,
+                "y": 62
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 10,
+                "y": 51
+            },
+            "end": {
+                "x": 10,
+                "y": 61
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 11,
+                "y": 47
+            },
+            "end": {
+                "x": 11,
+                "y": 60
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 12,
+                "y": 46
+            },
+            "end": {
+                "x": 12,
+                "y": 59
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 13,
+                "y": 44
+            },
+            "end": {
+                "x": 13,
+                "y": 59
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 14,
+                "y": 43
+            },
+            "end": {
+                "x": 14,
+                "y": 58
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 15,
+                "y": 42
+            },
+            "end": {
+                "x": 15,
+                "y": 57
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 16,
+                "y": 41
+            },
+            "end": {
+                "x": 16,
+                "y": 55
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 17,
+                "y": 40
+            },
+            "end": {
+                "x": 17,
+                "y": 54
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 18,
+                "y": 41
+            },
+            "end": {
+                "x": 18,
+                "y": 47
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 19,
+                "y": 42
+            },
+            "end": {
+                "x": 19,
+                "y": 45
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 29,
+                "y": 27
+            },
+            "end": {
+                "x": 35,
+                "y": 27
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 28,
+                "y": 28
+            },
+            "end": {
+                "x": 36,
+                "y": 28
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 28,
+                "y": 29
+            },
+            "end": {
+                "x": 38,
+                "y": 29
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 29,
+                "y": 30
+            },
+            "end": {
+                "x": 39,
+                "y": 30
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 33,
+                "y": 31
+            },
+            "end": {
+                "x": 40,
+                "y": 31
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 35,
+                "y": 32
+            },
+            "end": {
+                "x": 38,
+                "y": 32
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 15,
+                "y": 18
+            },
+            "end": {
+                "x": 16,
+                "y": 18
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 13,
+                "y": 19
+            },
+            "end": {
+                "x": 16,
+                "y": 19
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 11,
+                "y": 20
+            },
+            "end": {
+                "x": 15,
+                "y": 20
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 10,
+                "y": 21
+            },
+            "end": {
+                "x": 15,
+                "y": 21
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 9,
+                "y": 22
+            },
+            "end": {
+                "x": 15,
+                "y": 22
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 5,
+                "y": 23
+            },
+            "end": {
+                "x": 14,
+                "y": 23
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 4,
+                "y": 24
+            },
+            "end": {
+                "x": 12,
+                "y": 24
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 4,
+                "y": 25
+            },
+            "end": {
+                "x": 11,
+                "y": 25
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 4,
+                "y": 26
+            },
+            "end": {
+                "x": 10,
+                "y": 26
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 6,
+                "y": 27
+            },
+            "end": {
+                "x": 9,
+                "y": 27
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 7,
+                "y": 28
+            },
+            "end": {
+                "x": 8,
+                "y": 28
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 16,
+                "y": 79
+            },
+            "end": {
+                "x": 16,
+                "y": 80
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 17,
+                "y": 78
+            },
+            "end": {
+                "x": 17,
+                "y": 80
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 18,
+                "y": 78
+            },
+            "end": {
+                "x": 18,
+                "y": 80
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 19,
+                "y": 76
+            },
+            "end": {
+                "x": 19,
+                "y": 80
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 20,
+                "y": 75
+            },
+            "end": {
+                "x": 20,
+                "y": 80
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 21,
+                "y": 72
+            },
+            "end": {
+                "x": 21,
+                "y": 79
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 22,
+                "y": 71
+            },
+            "end": {
+                "x": 22,
+                "y": 79
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 23,
+                "y": 70
+            },
+            "end": {
+                "x": 23,
+                "y": 79
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 24,
+                "y": 69
+            },
+            "end": {
+                "x": 24,
+                "y": 79
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 25,
+                "y": 71
+            },
+            "end": {
+                "x": 25,
+                "y": 80
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 26,
+                "y": 72
+            },
+            "end": {
+                "x": 26,
+                "y": 80
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 27,
+                "y": 73
+            },
+            "end": {
+                "x": 27,
+                "y": 79
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 28,
+                "y": 74
+            },
+            "end": {
+                "x": 28,
+                "y": 78
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 26,
+                "y": 68
+            },
+            "end": {
+                "x": 26,
+                "y": 70
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 27,
+                "y": 67
+            },
+            "end": {
+                "x": 27,
+                "y": 71
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 28,
+                "y": 67
+            },
+            "end": {
+                "x": 28,
+                "y": 72
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 29,
+                "y": 67
+            },
+            "end": {
+                "x": 29,
+                "y": 77
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 30,
+                "y": 67
+            },
+            "end": {
+                "x": 30,
+                "y": 77
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 31,
+                "y": 67
+            },
+            "end": {
+                "x": 31,
+                "y": 77
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 32,
+                "y": 67
+            },
+            "end": {
+                "x": 32,
+                "y": 77
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 33,
+                "y": 68
+            },
+            "end": {
+                "x": 33,
+                "y": 77
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 34,
+                "y": 69
+            },
+            "end": {
+                "x": 34,
+                "y": 77
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 35,
+                "y": 70
+            },
+            "end": {
+                "x": 35,
+                "y": 76
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 36,
+                "y": 71
+            },
+            "end": {
+                "x": 36,
+                "y": 75
+            },
+            "type": "mountain"
+        },
+        {
+            "start": {
+                "x": 10,
+                "y": 33
+            },
+            "end": {
+                "x": 17,
+                "y": 33
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 9,
+                "y": 34
+            },
+            "end": {
+                "x": 17,
+                "y": 34
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 8,
+                "y": 35
+            },
+            "end": {
+                "x": 14,
+                "y": 35
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 7,
+                "y": 36
+            },
+            "end": {
+                "x": 10,
+                "y": 36
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 3,
+                "y": 37
+            },
+            "end": {
+                "x": 9,
+                "y": 37
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 1,
+                "y": 38
+            },
+            "end": {
+                "x": 7,
+                "y": 38
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 1,
+                "y": 39
+            },
+            "end": {
+                "x": 3,
+                "y": 39
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 26,
+                "y": 19
+            },
+            "end": {
+                "x": 27,
+                "y": 19
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 42,
+                "y": 82
+            },
+            "end": {
+                "x": 45,
+                "y": 82
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 41,
+                "y": 83
+            },
+            "end": {
+                "x": 51,
+                "y": 83
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 46,
+                "y": 84
+            },
+            "end": {
+                "x": 51,
+                "y": 84
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 40,
+                "y": 84
+            },
+            "end": {
+                "x": 42,
+                "y": 84
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 37,
+                "y": 85
+            },
+            "end": {
+                "x": 40,
+                "y": 85
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 36,
+                "y": 86
+            },
+            "end": {
+                "x": 39,
+                "y": 86
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 35,
+                "y": 87
+            },
+            "end": {
+                "x": 36,
+                "y": 87
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 34,
+                "y": 88
+            },
+            "end": {
+                "x": 35,
+                "y": 88
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 33,
+                "y": 89
+            },
+            "end": {
+                "x": 34,
+                "y": 89
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 33,
+                "y": 89
+            },
+            "end": {
+                "x": 33,
+                "y": 90
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 21,
+                "y": 58
+            },
+            "end": {
+                "x": 21,
+                "y": 62
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 22,
+                "y": 56
+            },
+            "end": {
+                "x": 22,
+                "y": 63
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 23,
+                "y": 55
+            },
+            "end": {
+                "x": 23,
+                "y": 64
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 24,
+                "y": 63
+            },
+            "end": {
+                "x": 24,
+                "y": 65
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 25,
+                "y": 64
+            },
+            "end": {
+                "x": 25,
+                "y": 70
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 24,
+                "y": 54
+            },
+            "end": {
+                "x": 24,
+                "y": 57
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 25,
+                "y": 53
+            },
+            "end": {
+                "x": 25,
+                "y": 56
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 25,
+                "y": 48
+            },
+            "end": {
+                "x": 25,
+                "y": 51
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 26,
+                "y": 47
+            },
+            "end": {
+                "x": 26,
+                "y": 54
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 27,
+                "y": 46
+            },
+            "end": {
+                "x": 27,
+                "y": 54
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 28,
+                "y": 45
+            },
+            "end": {
+                "x": 28,
+                "y": 54
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 29,
+                "y": 51
+            },
+            "end": {
+                "x": 29,
+                "y": 54
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 30,
+                "y": 51
+            },
+            "end": {
+                "x": 30,
+                "y": 54
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 31,
+                "y": 51
+            },
+            "end": {
+                "x": 31,
+                "y": 54
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 32,
+                "y": 50
+            },
+            "end": {
+                "x": 32,
+                "y": 55
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 33,
+                "y": 50
+            },
+            "end": {
+                "x": 33,
+                "y": 55
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 34,
+                "y": 51
+            },
+            "end": {
+                "x": 34,
+                "y": 56
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 35,
+                "y": 52
+            },
+            "end": {
+                "x": 35,
+                "y": 55
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 29,
+                "y": 45
+            },
+            "end": {
+                "x": 32,
+                "y": 45
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 29,
+                "y": 46
+            },
+            "end": {
+                "x": 33,
+                "y": 46
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 29,
+                "y": 47
+            },
+            "end": {
+                "x": 34,
+                "y": 47
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 32,
+                "y": 48
+            },
+            "end": {
+                "x": 34,
+                "y": 48
+            },
+            "type": "river"
+        }
+    ],
+    "diags": [
+        {
+            "start": {
+                "x": 24,
+                "y": 7
+            },
+            "end": {
+                "x": 20,
+                "y": 11
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 30,
+                "y": 6
+            },
+            "end": {
+                "x": 31,
+                "y": 7
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 31,
+                "y": 13
+            },
+            "end": {
+                "x": 29,
+                "y": 15
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 40,
+                "y": 30
+            },
+            "end": {
+                "x": 43,
+                "y": 33
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 45,
+                "y": 59
+            },
+            "end": {
+                "x": 51,
+                "y": 65
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 51,
+                "y": 87
+            },
+            "end": {
+                "x": 44,
+                "y": 94
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 1,
+                "y": 83
+            },
+            "end": {
+                "x": 12,
+                "y": 94
+            },
+            "type": "border"
+        },
+        {
+            "start": {
+                "x": 20,
+                "y": 13
+            },
+            "end": {
+                "x": 21,
+                "y": 14
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 24,
+                "y": 16
+            },
+            "end": {
+                "x": 25,
+                "y": 17
+            },
+            "type": "river"
+        },
+        {
+            "start": {
+                "x": 25,
+                "y": 70
+            },
+            "end": {
+                "x": 28,
+                "y": 73
+            },
+            "type": "river"
+        }
+    ]
+  },
+  "characters": {
+    "player": {
+      "ID": 0,
+      "start": {
+        "x": 1,
+        "y": 1
+      },
+      "level": 1,
+      "Strength": 1,
+      "Stamina": 1,
+      "Dexterity": 1,
+      "SkillPoints": 0,
+      "HealthPercentage": 100,
+      "ExperiencePoints": 0
+    },
+    "enemies": [
+        {
+            "ID": 111,
+            "start": {
+                "x": 4,
+                "y": 8
+            },
+            "level": 1,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 112,
+            "start": {
+                "x": 7,
+                "y": 17
+            },
+            "level": 1,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 113,
+            "start": {
+                "x": 4,
+                "y": 20
+            },
+            "level": 1,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 114,
+            "start": {
+                "x": 22,
+                "y": 12
+            },
+            "level": 1,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 115,
+            "start": {
+                "x": 25,
+                "y": 14
+            },
+            "level": 1,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 116,
+            "start": {
+                "x": 26,
+                "y": 11
+            },
+            "level": 2,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 117,
+            "start": {
+                "x": 20,
+                "y": 29
+            },
+            "level": 2,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 118,
+            "start": {
+                "x": 27,
+                "y": 36
+            },
+            "level": 2,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 119,
+            "start": {
+                "x": 37,
+                "y": 40
+            },
+            "level": 2,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1110,
+            "start": {
+                "x": 36,
+                "y": 25
+            },
+            "level": 3,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1111,
+            "start": {
+                "x": 2,
+                "y": 33
+            },
+            "level": 1,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1112,
+            "start": {
+                "x": 4,
+                "y": 35
+            },
+            "level": 2,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1113,
+            "start": {
+                "x": 7,
+                "y": 43
+            },
+            "level": 3,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1114,
+            "start": {
+                "x": 19,
+                "y": 55
+            },
+            "level": 3,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1115,
+            "start": {
+                "x": 14,
+                "y": 68
+            },
+            "level": 3,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1116,
+            "start": {
+                "x": 30,
+                "y": 49
+            },
+            "level": 3,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1117,
+            "start": {
+                "x": 40,
+                "y": 60
+            },
+            "level": 3,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1118,
+            "start": {
+                "x": 40,
+                "y": 70
+            },
+            "level": 4,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1119,
+            "start": {
+                "x": 49,
+                "y": 73
+            },
+            "level": 4,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1120,
+            "start": {
+                "x": 13,
+                "y": 77
+            },
+            "level": 4,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1121,
+            "start": {
+                "x": 14,
+                "y": 87
+            },
+            "level": 4,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1122,
+            "start": {
+                "x": 23,
+                "y": 86
+            },
+            "level": 5,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1123,
+            "start": {
+                "x": 32,
+                "y": 83
+            },
+            "level": 5,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1124,
+            "start": {
+                "x": 41,
+                "y": 77
+            },
+            "level": 5,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1125,
+            "start": {
+                "x": 29,
+                "y": 92
+            },
+            "level": 6,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1126,
+            "start": {
+                "x": 38,
+                "y": 88
+            },
+            "level": 7,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1127,
+            "start": {
+                "x": 40,
+                "y": 93
+            },
+            "level": 7,
+            "HealthPercentage": 100,
+            "randomstats": true
+        },
+        {
+            "ID": 1128,
+            "start": {
+                "x": 47,
+                "y": 87
+            },
+            "level": 8,
+            "HealthPercentage": 100,
+            "randomstats": true
+        }
+    ]
+  },
+    "items": [
+        {
+            "ID": 221,
+            "start": {
+                "x": 27,
+                "y": 8
+            },
+            "type": "armor",
+            "reqlevel": 2,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "uncommon"
+        },
+        {
+            "ID": 222,
+            "start": {
+                "x": 29,
+                "y": 10
+            },
+            "type": "helmet",
+            "reqlevel": 2,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "uncommon"
+        },
+        {
+            "ID": 223,
+            "start": {
+                "x": 2,
+                "y": 37
+            },
+            "type": "shield",
+            "reqlevel": 2,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "uncommon"
+        },
+        {
+            "ID": 224,
+            "start": {
+                "x": 38,
+                "y": 28
+            },
+            "type": "weapon",
+            "reqlevel": 3,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "uncommon"
+        },
+        {
+            "ID": 225,
+            "start": {
+                "x": 6,
+                "y": 53
+            },
+            "type": "shield",
+            "reqlevel": 3,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "rare"
+        },
+        {
+            "ID": 226,
+            "start": {
+                "x": 11,
+                "y": 61
+            },
+            "type": "weapon",
+            "reqlevel": 3,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "rare"
+        },
+        {
+            "ID": 227,
+            "start": {
+                "x": 29,
+                "y": 49
+            },
+            "type": "boots",
+            "reqlevel": 3,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "rare"
+        },
+        {
+            "ID": 228,
+            "start": {
+                "x": 26,
+                "y": 57
+            },
+            "type": "armor",
+            "reqlevel": 3,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "rare"
+        },
+        {
+            "ID": 229,
+            "start": {
+                "x": 25,
+                "y": 61
+            },
+            "type": "helmet",
+            "reqlevel": 3,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "rare"
+        },
+        {
+            "ID": 2210,
+            "start": {
+                "x": 29,
+                "y": 78
+            },
+            "type": "weapon",
+            "reqlevel": 4,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "epic"
+        },
+        {
+            "ID": 2211,
+            "start": {
+                "x": 17,
+                "y": 81
+            },
+            "type": "boots",
+            "reqlevel": 4,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "epic"
+        },
+        {
+            "ID": 2212,
+            "start": {
+                "x": 51,
+                "y": 82
+            },
+            "type": "shield",
+            "reqlevel": 4,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "epic"
+        },
+        {
+            "ID": 2213,
+            "start": {
+                "x": 28,
+                "y": 94
+            },
+            "type": "armor",
+            "reqlevel": 4,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "epic"
+        },
+        {
+            "ID": 2214,
+            "start": {
+                "x": 29,
+                "y": 94
+            },
+            "type": "helmet",
+            "reqlevel": 4,
+            "ownerID": 12,
+            "equipedPlayer": false,
+            "rarity": "epic"
+        },
+        {
+            "ID": 2215,
+            "start": {
+                "x": 2,
+                "y": 2
+            },
+            "type": "armor",
+            "reqlevel": 1,
+            "ownerID": 0,
+            "equipedPlayer": true,
+            "rarity": "common"
+        },
+        {
+            "ID": 2216,
+            "start": {
+                "x": 2,
+                "y": 2
+            },
+            "type": "weapon",
+            "reqlevel": 2,
+            "ownerID": 0,
+            "equipedPlayer": true,
+            "rarity": "common"
+        },
+        {
+            "ID": 2217,
+            "start": {
+                "x": 2,
+                "y": 2
+            },
+            "type": "shield",
+            "reqlevel": 1,
+            "ownerID": 0,
+            "equipedPlayer": true,
+            "rarity": "common"
+        },
+        {
+            "ID": 2219,
+            "start": {
+                "x": 2,
+                "y": 2
+            },
+            "type": "boots",
+            "reqlevel": 1,
+            "ownerID": 0,
+            "equipedPlayer": true,
+            "rarity": "common"
+        },
+        {
+            "ID": 2219,
+            "start": {
+                "x": 2,
+                "y": 2
+            },
+            "type": "helmet",
+            "reqlevel": 1,
+            "ownerID": 0,
+            "equipedPlayer": false,
+            "rarity": "common"
+        }
+    ]
+}

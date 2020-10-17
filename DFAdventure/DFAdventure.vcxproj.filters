@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Characters">
+      <UniqueIdentifier>{837dcaf1-03e8-49e7-93dd-3617661d51c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Characters\Player">
+      <UniqueIdentifier>{a58aa683-c857-4f02-8fd7-28a14c2b1750}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Characters\Enemy">
+      <UniqueIdentifier>{7bc2a179-f5b8-4343-9d2e-6b6bfc71fb22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters">
+      <UniqueIdentifier>{40c78fbb-7de9-42d0-be31-5598ee5b3e9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Player">
+      <UniqueIdentifier>{d2c097bd-b2fc-420c-aceb-8de1f2a9518e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Enemy">
+      <UniqueIdentifier>{8d57ae78-a745-48c4-933b-3aa2ff63ba8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\View">
+      <UniqueIdentifier>{c0797eb9-b374-47f6-babd-69bcd71a75d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\View">
+      <UniqueIdentifier>{60f73519-df46-4ebf-aae7-89e6d95cc4a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Characters\Base">
+      <UniqueIdentifier>{77488c26-2db5-4d4e-a1cf-42eed47fac79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Characters\Base">
+      <UniqueIdentifier>{6da56642-d6c8-4820-a932-2c677bafad4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="json">
+      <UniqueIdentifier>{ac02b25c-49bb-42a5-8fa2-9ca6010c2773}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DFAdventure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Characters\Base\Controller.cpp">
+      <Filter>Source Files\Characters\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Characters\Base\Pawn.cpp">
+      <Filter>Source Files\Characters\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Characters\Enemy\EnemyCharacterFactory.cpp">
+      <Filter>Source Files\Characters\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Characters\Enemy\EnemyController.cpp">
+      <Filter>Source Files\Characters\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Characters\Enemy\EnemyPawn.cpp">
+      <Filter>Source Files\Characters\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Characters\Player\PlayerCharacterFactory.cpp">
+      <Filter>Source Files\Characters\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Characters\Player\PlayerController.cpp">
+      <Filter>Source Files\Characters\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Characters\Player\PlayerPawn.cpp">
+      <Filter>Source Files\Characters\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\View\ConsoleRender.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Characters\Base\AbstractCharacterFactory.cpp">
+      <Filter>Source Files\Characters\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\GameMode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\View\MainMenu.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Characters\Base\MenuController.cpp">
+      <Filter>Source Files\Characters\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="json\jsoncpp.cpp">
+      <Filter>json</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Public\Characters\Base\AbstractCharacterFactory.h">
+      <Filter>Header Files\Characters\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Characters\Base\Controller.h">
+      <Filter>Header Files\Characters\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Characters\Base\Pawn.h">
+      <Filter>Header Files\Characters\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Characters\Enemy\EnemyCharacterFactory.h">
+      <Filter>Header Files\Characters\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Characters\Enemy\EnemyPawn.h">
+      <Filter>Header Files\Characters\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Characters\Enemy\EnemyController.h">
+      <Filter>Header Files\Characters\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Characters\Player\PlayerController.h">
+      <Filter>Header Files\Characters\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Characters\Player\PlayerPawn.h">
+      <Filter>Header Files\Characters\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Characters\Player\PlayerCharacterFactory.h">
+      <Filter>Header Files\Characters\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\View\ConsoleRender.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\View\DataStruct.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\GameMode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\View\MainMenu.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Characters\Base\MenuController.h">
+      <Filter>Header Files\Characters\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="json\json\json.h">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="json\json\json-forwards.h">
+      <Filter>json</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
